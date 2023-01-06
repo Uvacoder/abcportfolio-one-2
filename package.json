@@ -16,7 +16,7 @@
   "dependencies": {
     "@heroicons/react": "^2.0.12",
     "clsx": "^1.1.1",
-    "eslint-config-next": "^13.0.0",
+    "eslint-config-next": "^13.0.7",
     "next": "^13.0.0",
     "prismjs": "^1.24.1",
     "react": "^18.2.0",
